@@ -1,2 +1,2 @@
 # dreamproject3
-Predict new customer behavior
+**Predict customer behavior**  based on _ segmentation_
